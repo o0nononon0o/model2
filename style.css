@@ -232,43 +232,14 @@ header a:hover{
   box-sizing: border-box;
 }
 
-.h4-1::before{
-  content: "1";
-  background-color: skyblue;
-  color: white;
-  margin-right: 8px;
-  font-size: 32px;
-  line-height: 48px;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  display: inline-block;
+.process #step{
+  width: 96px;
+  height: 96px;
 }
 
-.h4-2::before{
-  content: "2";
-  background-color: skyblue;
-  color: white;
-  margin-right: 8px;
-  font-size: 32px;
-  line-height: 48px;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
+.process h4{
   display: inline-block;
-}
-
-.h4-3::before{
-  content: "3";
-  background-color: skyblue;
-  color: white;
-  margin-right: 8px;
   font-size: 32px;
-  line-height: 48px;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  display: inline-block;
 }
 
 /* menu */
