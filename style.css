@@ -151,6 +151,11 @@ header a:hover{
   background-size: cover;
 }
 
+#catch .container{
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .under{
   position: relative;
   display: inline-block;
